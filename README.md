@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushisoni062
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning html and css 
+- 👀
+- 🌱
 - 📫 How to reach me khushisoni488@gmail.com
 
 <!---
