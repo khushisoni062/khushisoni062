@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @khushisoni062
-- 👀
-- 🌱
 - 📫 How to reach me khushisoni488@gmail.com
 
 <!---
